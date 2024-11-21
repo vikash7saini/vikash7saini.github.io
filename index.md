@@ -1,7 +1,8 @@
 # Welcome to my portfolio
 
 ## About Me
-I am vikash saini, a passionate learner and a software developer. I have a strong foundation in computer science and a keen interest in machine learning and open source contributions.
+I am vikash saini, a passionate learner and a software developer.
+I have a strong foundation in computer science and a keen interest in machine learning and open source contributions.
 
 # Education
 | Degree         | Institution | Year |
